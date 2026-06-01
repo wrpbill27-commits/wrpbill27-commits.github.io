@@ -1,0 +1,718 @@
+[
+  {
+    "code": "hd-spotv2",
+    "name": "SPOTV2"
+  },
+  {
+    "code": "uk-btsport2hd",
+    "name": "BT SPORTS 2 HD"
+  },
+  {
+    "code": "hd-ch3",
+    "name": "3 HD"
+  },
+  {
+    "code": "th-ch3",
+    "name": "3 HD Backup"
+  },
+  {
+    "code": "th-hbo",
+    "name": "HBO (Thai sound)"
+  },
+  {
+    "code": "hd-thairath",
+    "name": "Thairath HD"
+  },
+  {
+    "code": "uk-btsport1hd",
+    "name": "BT SPORTS 1 HD"
+  },
+  {
+    "code": "epl-bein3",
+    "name": "BeIN Sports 3 Thailand"
+  },
+  {
+    "code": "hd-gmmone",
+    "name": "ONE HD"
+  },
+  {
+    "code": "hd-tsport2",
+    "name": "True Sport HD 2"
+  },
+  {
+    "code": "epl-bein2",
+    "name": "BeIN Sports 2 Thailand"
+  },
+  {
+    "code": "sd-tsport7",
+    "name": "True Sport 7"
+  },
+  {
+    "code": "epl-bein1",
+    "name": "BeIN Sports 1 Thailand"
+  },
+  {
+    "code": "epl-3",
+    "name": "Premier Football HD 3"
+  },
+  {
+    "code": "hd-ch8",
+    "name": "CH 8"
+  },
+  {
+    "code": "hd-spotv",
+    "name": "SPOTV1"
+  },
+  {
+    "code": "th-monomax02",
+    "name": "MAX 02"
+  },
+  {
+    "code": "th-monoplus",
+    "name": "Mono Plus"
+  },
+  {
+    "code": "us-nbcgolf",
+    "name": "NBC Golf USA"
+  },
+  {
+    "code": "hd-amarin",
+    "name": "Amarin TV"
+  },
+  {
+    "code": "sd-24u",
+    "name": "True4U"
+  },
+  {
+    "code": "hd-tsport1",
+    "name": "True Sport HD 1"
+  },
+  {
+    "code": "hd-ch7",
+    "name": "7 HD"
+  },
+  {
+    "code": "th-hbosignature",
+    "name": "HBO Signature"
+  },
+  {
+    "code": "hd-tsport3",
+    "name": "True Sport HD 3"
+  },
+  {
+    "code": "th-blueant",
+    "name": "Blue Ant Entertainment"
+  },
+  {
+    "code": "hd-workpoint",
+    "name": "Workpoint"
+  },
+  {
+    "code": "hd-axn",
+    "name": "AXN HD"
+  },
+  {
+    "code": "uk-btsport3hd",
+    "name": "BT Sport 3 HD"
+  },
+  {
+    "code": "uk-skysports-golf",
+    "name": "Sky Sports Golf"
+  },
+  {
+    "code": "hd-tfilm",
+    "name": "True Film HD"
+  },
+  {
+    "code": "th-cinemax",
+    "name": "Max HD"
+  },
+  {
+    "code": "sd-tsport5",
+    "name": "True Sport 5"
+  },
+  {
+    "code": "th-hbofamily",
+    "name": "HBO Family"
+  },
+  {
+    "code": "hd-pptv",
+    "name": "PPTV HD"
+  },
+  {
+    "code": "uk-skysports-mainevent",
+    "name": "Sky Sports Main Event"
+  },
+  {
+    "code": "hd-ch5",
+    "name": "CH5"
+  },
+  {
+    "code": "hd-mcot",
+    "name": "9 MCOT HD"
+  },
+  {
+    "code": "th-ch7",
+    "name": "Channel 7 Backup"
+  },
+  {
+    "code": "sd-nbt",
+    "name": "NBT"
+  },
+  {
+    "code": "hd-tpbs",
+    "name": "Thai PBS"
+  },
+  {
+    "code": "sd-gmmchannel",
+    "name": "GMM 25"
+  },
+  {
+    "code": "th-tpbs",
+    "name": "Thai PBS Backup"
+  },
+  {
+    "code": "hd-topnews",
+    "name": "Top News"
+  },
+  {
+    "code": "th-thairath",
+    "name": "ThaiRath (Backup)"
+  },
+  {
+    "code": "th-pptv",
+    "name": "PPTV Backup"
+  },
+  {
+    "code": "hd-mono",
+    "name": "MONO 29"
+  },
+  {
+    "code": "sd-tnn24",
+    "name": "TNN24"
+  },
+  {
+    "code": "sd-nation",
+    "name": "Nation"
+  },
+  {
+    "code": "sd-new",
+    "name": "New TV"
+  },
+  {
+    "code": "th-gmmchannel",
+    "name": "GMM Channel BACKUP"
+  },
+  {
+    "code": "th-ch8",
+    "name": "Channel 8 (Backup)"
+  },
+  {
+    "code": "th-nation",
+    "name": "Nation TV BACKUP"
+  },
+  {
+    "code": "hd-monobkp",
+    "name": "Mono29 Backup"
+  },
+  {
+    "code": "hd-asianmore",
+    "name": "Asian More"
+  },
+  {
+    "code": "sd-series",
+    "name": "Series"
+  },
+  {
+    "code": "hd-xzyte",
+    "name": "X-zyte"
+  },
+  {
+    "code": "th-axn",
+    "name": "AXN (Backup)"
+  },
+  {
+    "code": "th-blueantex",
+    "name": "RTL CBS Extreme"
+  },
+  {
+    "code": "sd-discovery",
+    "name": "Discovery Channel"
+  },
+  {
+    "code": "hd-history",
+    "name": "History HD"
+  },
+  {
+    "code": "th-discovery",
+    "name": "Discovery Channel Backup"
+  },
+  {
+    "code": "th-asianfood",
+    "name": "Asian Food Channel"
+  },
+  {
+    "code": "uk-history",
+    "name": "History UK"
+  },
+  {
+    "code": "uk-discoveryhistory",
+    "name": "Discovery History"
+  },
+  {
+    "code": "uk-natgeo",
+    "name": "National Geographic"
+  },
+  {
+    "code": "uk-discovery",
+    "name": "Discovery UK"
+  },
+  {
+    "code": "uk-discoveryturbo",
+    "name": "Discovery Turbo"
+  },
+  {
+    "code": "uk-natgeowild",
+    "name": "Nat Geo Wild"
+  },
+  {
+    "code": "uk-ci",
+    "name": "Crime Investigation"
+  },
+  {
+    "code": "uk-foodnetwork",
+    "name": "Food Network"
+  },
+  {
+    "code": "th-foodnetwork",
+    "name": "Food Channel"
+  },
+  {
+    "code": "hd-dreamworks",
+    "name": "Dreamworks"
+  },
+  {
+    "code": "th-dreamworks",
+    "name": "Dreamworks (Backup)"
+  },
+  {
+    "code": "uk-citv",
+    "name": "CITV"
+  },
+  {
+    "code": "uk-cbbchd",
+    "name": "CBBC"
+  },
+  {
+    "code": "sd-cartoonnetwork",
+    "name": "Cartoon Network"
+  },
+  {
+    "code": "th-monomax01",
+    "name": "MAX 01"
+  },
+  {
+    "code": "hd-tsport4",
+    "name": "True Sport HD 4"
+  },
+  {
+    "code": "hd-tennis",
+    "name": "True Tennis HD"
+  },
+  {
+    "code": "hd-golf2",
+    "name": "Golf Channel HD 2"
+  },
+  {
+    "code": "hd-eurosport",
+    "name": "Eurosport Asia"
+  },
+  {
+    "code": "sd-tsports",
+    "name": "T-Sports"
+  },
+  {
+    "code": "us-nba",
+    "name": "NBA TV USA"
+  },
+  {
+    "code": "uk-skysports-epl",
+    "name": "Sky Sports EPL"
+  },
+  {
+    "code": "uk-skysports-action",
+    "name": "Sky Sports Action"
+  },
+  {
+    "code": "uk-skysports-football",
+    "name": "Sky Sports Football"
+  },
+  {
+    "code": "uk-skysports-f1",
+    "name": "Sky Sports F1"
+  },
+  {
+    "code": "uk-skysports-arena",
+    "name": "Sky Sports Arena"
+  },
+  {
+    "code": "uk-skysports-cricket",
+    "name": "Sky Sports Cricket"
+  },
+  {
+    "code": "uk-skysports-mix",
+    "name": "Sky Sports Mix"
+  },
+  {
+    "code": "uk-skysports-news",
+    "name": "Sky Sports News"
+  },
+  {
+    "code": "uk-btsport1hdbkp",
+    "name": "BT Sport 1"
+  },
+  {
+    "code": "uk-btsport2hdbkp",
+    "name": "BT Sport 2"
+  },
+  {
+    "code": "uk-espn",
+    "name": "BT Sport ESPN"
+  },
+  {
+    "code": "uk-skysports1bkp",
+    "name": "Sky Sports 1"
+  },
+  {
+    "code": "uk-skysports2bkp",
+    "name": "Sky Sports 2"
+  },
+  {
+    "code": "uk-skysports3bkp",
+    "name": "Sky Sports 3"
+  },
+  {
+    "code": "uk-skysports4bkp",
+    "name": "Sky Sports 4"
+  },
+  {
+    "code": "uk-skysports5bkp",
+    "name": "Sky Sports 5"
+  },
+  {
+    "code": "uk-racing",
+    "name": "Racing UK"
+  },
+  {
+    "code": "uk-mutv",
+    "name": "MUTV HD"
+  },
+  {
+    "code": "uk-premiersports",
+    "name": "Premier Sports"
+  },
+  {
+    "code": "uk-lfctv",
+    "name": "LFCTV"
+  },
+  {
+    "code": "th-tsporthd1",
+    "name": "Sport HD 1 (Backup)"
+  },
+  {
+    "code": "th-tsporthd2",
+    "name": "Sport HD 2 (Backup)"
+  },
+  {
+    "code": "th-tsporthd3",
+    "name": "Sport HD 3 (Backup)"
+  },
+  {
+    "code": "th-tsport7",
+    "name": "Sport 7 (Backup)"
+  },
+  {
+    "code": "ca-tsn1",
+    "name": "TSN 1"
+  },
+  {
+    "code": "ca-tsn2",
+    "name": "TSN 2"
+  },
+  {
+    "code": "ca-tsn3",
+    "name": "TSN 3"
+  },
+  {
+    "code": "ca-tsn4",
+    "name": "TSN 4"
+  },
+  {
+    "code": "fr-bein3hd",
+    "name": "BeIN Sport 3 (FR)"
+  },
+  {
+    "code": "fr-bein2hd",
+    "name": "BeIN Sport 2 (FR)"
+  },
+  {
+    "code": "fr-bein1hd",
+    "name": "BeIN Sport 1 (FR)"
+  },
+  {
+    "code": "fr-canalsport",
+    "name": "Canal+ Sport (FR)"
+  },
+  {
+    "code": "hd-bein1",
+    "name": "BeIN Sport 1"
+  },
+  {
+    "code": "hd-bein2",
+    "name": "BeIN Sport 2"
+  },
+  {
+    "code": "hd-bein3",
+    "name": "BeIN Sport 3"
+  },
+  {
+    "code": "hd-bein4",
+    "name": "BeIN Sport 4"
+  },
+  {
+    "code": "hd-bein5",
+    "name": "BeIN Sport 5"
+  },
+  {
+    "code": "hd-bein7",
+    "name": "BeIN Sport 7"
+  },
+  {
+    "code": "hd-bein8",
+    "name": "BeIN Sport 8"
+  },
+  {
+    "code": "hd-bein9",
+    "name": "BeIN Sport 9"
+  },
+  {
+    "code": "hd-bein10",
+    "name": "BeIN Sport 10"
+  },
+  {
+    "code": "hd-bein11",
+    "name": "BeIN Sport 11"
+  },
+  {
+    "code": "hd-bein12",
+    "name": "BeIN Sport 12"
+  },
+  {
+    "code": "hd-cnn",
+    "name": "CNN HD"
+  },
+  {
+    "code": "uk-bbcnewshd",
+    "name": "BBC News"
+  },
+  {
+    "code": "us-bloomberg",
+    "name": "Bloomberg"
+  },
+  {
+    "code": "uk-cnn",
+    "name": "CNN (UK)"
+  },
+  {
+    "code": "uk-bbcworldnews",
+    "name": "BBC World News"
+  },
+  {
+    "code": "sd-channelnewsasia",
+    "name": "Channel NewsAsia"
+  },
+  {
+    "code": "uk-skynews",
+    "name": "Sky News UK"
+  },
+  {
+    "code": "ie-rtenews",
+    "name": "RTE News"
+  },
+  {
+    "code": "uk-foxnews",
+    "name": "Fox News UK"
+  },
+  {
+    "code": "sd-tptv",
+    "name": "TPTV"
+  },
+  {
+    "code": "th-cnn",
+    "name": "CNN"
+  },
+  {
+    "code": "th-nhkworld",
+    "name": "NHK World"
+  },
+  {
+    "code": "th-bbcworldnews",
+    "name": "BBC World News (Asia)"
+  },
+  {
+    "code": "sd-news1",
+    "name": "News 1"
+  },
+  {
+    "code": "th-max-alure",
+    "name": "Alure (3BB)"
+  },
+  {
+    "code": "uk-attheraces",
+    "name": "At The Races"
+  },
+  {
+    "code": "uk-bbcalba",
+    "name": "BBC Alba"
+  },
+  {
+    "code": "uk-babytv",
+    "name": "Baby TV"
+  },
+  {
+    "code": "uk-channel5",
+    "name": "Channel 5 UK"
+  },
+  {
+    "code": "uk-bbc1wales",
+    "name": "BBC One Wales"
+  },
+  {
+    "code": "ie-rte1",
+    "name": "RTE One"
+  },
+  {
+    "code": "uk-syfy",
+    "name": "Syfy"
+  },
+  {
+    "code": "uk-itv3",
+    "name": "ITV 3"
+  },
+  {
+    "code": "uk-itv2",
+    "name": "ITV 2"
+  },
+  {
+    "code": "uk-itv1bkp",
+    "name": "ITV"
+  },
+  {
+    "code": "uk-bbc4hd",
+    "name": "BBC Four UK"
+  },
+  {
+    "code": "uk-bbc2scotland",
+    "name": "BBC Two Scotland"
+  },
+  {
+    "code": "uk-bbc1scotland",
+    "name": "BBC One Scotland"
+  },
+  {
+    "code": "uk-bbc3hd",
+    "name": "BBC Three HD"
+  },
+  {
+    "code": "uk-bbc2hd",
+    "name": "BBC Two HD"
+  },
+  {
+    "code": "uk-bbc1hd",
+    "name": "BBC One HD"
+  },
+  {
+    "code": "uk-yesterday",
+    "name": "Yesterday"
+  },
+  {
+    "code": "ie-rte2",
+    "name": "RTE Two"
+  },
+  {
+    "code": "uk-itv4",
+    "name": "ITV 4"
+  },
+  {
+    "code": "uk-itvbe",
+    "name": "ITV Be"
+  },
+  {
+    "code": "uk-mtv",
+    "name": "MTV Music UK"
+  },
+  {
+    "code": "uk-e4",
+    "name": "E4"
+  },
+  {
+    "code": "uk-more4",
+    "name": "More 4"
+  },
+  {
+    "code": "uk-film4",
+    "name": "Film 4 UK"
+  },
+  {
+    "code": "uk-channel4hd",
+    "name": "Channel 4 HD"
+  },
+  {
+    "code": "uk-itv1hd",
+    "name": "ITV HD (UK)"
+  },
+  {
+    "code": "uk-animalplanet",
+    "name": "Animal Planet"
+  },
+  {
+    "code": "uk-4sevenhd",
+    "name": "4-7 HD"
+  },
+  {
+    "code": "uk-alibi",
+    "name": "Alibi"
+  },
+  {
+    "code": "xxx-01",
+    "name": "VIP1"
+  },
+  {
+    "code": "xxx-02",
+    "name": "VIP2"
+  },
+  {
+    "code": "xxx-03",
+    "name": "VIP3"
+  },
+  {
+    "code": "xxx-04",
+    "name": "VIP4"
+  },
+  {
+    "code": "xxx-05",
+    "name": "VIP5"
+  },
+  {
+    "code": "xxx-06",
+    "name": "VIP6"
+  },
+  {
+    "code": "xxx-07",
+    "name": "VIP7"
+  },
+  {
+    "code": "xxx-08",
+    "name": "VIP8"
+  }
+]
